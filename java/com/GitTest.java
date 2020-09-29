@@ -15,4 +15,6 @@ public class GitTest {
     }
 
     public static final String FOCUS = "focus";
+
+    ///////////
 }
